@@ -1,0 +1,33 @@
+  body{
+        background-color: aquamarine
+    }
+/* กำหนดใข่ปลา */
+ hr{
+border-style: none;
+border-top-style: dotted;
+border-color: blue;
+border-width: 5px;
+width: 5%;
+}
+h1{
+    color: darkgreen;
+}
+
+p {
+    color: chocolate;
+}
+img {
+    background-color: blue;
+}
+
+/* 2. class selector */
+.broccoli{
+    background-color: navy;
+}
+.circular{
+    border-radius: 100% ;
+}
+
+#heading{
+    color: crimson;
+}
